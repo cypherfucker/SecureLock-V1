@@ -1,6 +1,7 @@
 <p align="center">
   
-<img width="100" height="100" alt="Untitled design (4)" src="https://github.com/user-attachments/assets/183e334d-6180-4399-8414-d764ed897e6e" />
+<img width="100" height="100" alt="Untitled design (4)" src="https://github.com/user-attachments/assets/3cc1cc8c-1e5c-4f66-8c7a-233d1143a863" />
+
 
 
 <h1 align="center">SecureLock 🔒</h1>
