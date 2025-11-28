@@ -1,12 +1,17 @@
 <p align="center">
   
-<img width="100" height="100" alt="Untitled design (4)" src="https://github.com/user-attachments/assets/3cc1cc8c-1e5c-4f66-8c7a-233d1143a863" />
+<img width="100" height="100" alt="Warning" src="https://github.com/user-attachments/assets/52cf5192-f4b2-490c-bc13-d5c92aec3579" />
 
 
 
-<h1 align="center">SecureLock 🔒</h1>
+<h1 align="center">SecureLock-V1 🔒</h1>
 
-# **Secure File Encryption**
+
+# **This project has been deprecated: For the up-to-date repo, please visit [SecureLock](https://github.com/cypherfucker/SecureLock)**
+
+
+
+## **Secure File Encryption**
 
 SecureLock is a privacy-focused lightweight encryption web-app that allows you to encrypt and decrypt any file type locally in your browser without any data ever leaving your device. Built with security and privacy as core principles.
 
@@ -21,12 +26,12 @@ SecureLock provides AES-256-GCM encryption for any file type, ensuring your sens
 - 🌐 ** Local Processing** - Zero server communication, complete privacy
 - 🎯 **Zero Knowledge** - We never see your files or passwords
 - 📱 **Cross-Platform** - Works on any device with a modern browser
-- 🆓 **[Open Source](https://github.com/cypherfucker/SecureLock)** - Fully auditable code under [CC0](https://github.com/cypherfucker/SecureLock/blob/main/LICENSE) license
+- 🆓 **[Open Source](https://github.com/cypherfucker/SecureLock-V1)** - Fully auditable code under [CC0](https://github.com/cypherfucker/SecureLock-V1/blob/main/LICENSE) license
 
 ## 📖 Usage
 
 ### Getting Started
-1. Visit the [SecureLock 🔒](https://securelock.cypherfucker.com) web application
+1. Visit the [SecureLock-V1 🔒](https://securelock-v1.cypherfucker.com) web application
 2. Choose your encryption method: Password or [PGP Key](https://pgp.cypherfucker.com)
 3. Drag and drop your file or click to select
 4. Enter a strong password (minimum 16 characters with numbers, uppercase, and special characters)
@@ -83,7 +88,7 @@ Z3R0 implements industry-standard cryptographic practices:
 
 ### Installation
 \`\`\`bash
-git clone https://github.com/cypherfucker/SecureLock.git
+git clone https://github.com/cypherfucker/SecureLock-V1.git
 cd SecureLock
 npm install
 npm run dev
@@ -100,12 +105,12 @@ npm run build
 
 This work is dedicated to the public domain. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 
-See [LICENSE](https://github.com/cypherfucker/SecureLock/blob/main/LICENSE) for details.
+See [LICENSE](https://github.com/cypherfucker/SecureLock-V1/blob/main/LICENSE) for details.
 
 ## 🔗 Links
 
-- **Web-app**: [SecureLock 🔒](https://securelock.cypherfucker.com)
-- **Repository**: [GitHub](https://github.com/cypherfucker/SecureLock)
-- **License**: [CC0 Public Domain](https://github.com/cypherfucker/SecureLock/blob/main/LICENSE)
+- **Web-app**: [SecureLock-V1 🔒](https://securelock-v1.cypherfucker.com)
+- **Repository**: [GitHub](https://github.com/cypherfucker/SecureLock-V1)
+- **License**: [CC0 Public Domain](https://github.com/cypherfucker/SecureLock-V1/blob/main/LICENSE)
 
 ---
