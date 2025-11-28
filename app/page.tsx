@@ -34,7 +34,7 @@ export default function HomePage() {
               <Image src="/pgp-icon.png" alt="PGP Keys" width={28} height={28} className="w-7 h-7 rounded-full" />
             </a>
             <a
-              href="https://github.com/cypherfucker/SecureLock/blob/main/README.md"
+              href="https://github.com/cypherfucker/SecureLock-V1/blob/main/README.md"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors"
@@ -151,7 +151,7 @@ export default function HomePage() {
             <p>Free and Open Source - Privacy by design</p>
             <p>
               <a
-                href="https://github.com/cypherfucker/SecureLock/blob/main/LICENSE"
+                href="https://github.com/cypherfucker/SecureLock-V1/blob/main/LICENSE"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:opacity-80 transition-opacity"
