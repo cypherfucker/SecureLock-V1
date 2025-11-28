@@ -19,7 +19,7 @@ export function FeaturesPanel() {
       label: "Open Source",
       color: "text-purple-500",
       bgColor: "bg-purple-500/20",
-      link: "https://github.com/cypherfucker/SecureLock",
+      link: "https://github.com/cypherfucker/SecureLock-V1",
     },
     {
       icon: Cpu,
