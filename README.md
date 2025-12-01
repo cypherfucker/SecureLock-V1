@@ -57,7 +57,7 @@ For maximum security, passwords must include:
 
 ### File Signature
 
-Files encrypted with hat.sh are identifiable by looking at the file signature that is used by the app to verify the content of a file, Such signatures are also known as magic numbers or Magic Bytes. These Bytes are authenticated and cannot be changed.
+Files encrypted with SecureLock are identifiable by looking at the file signature that is used by the app to verify the content of a file, Such signatures are also known as magic numbers or Magic Bytes. These Bytes are authenticated and cannot be changed.
 
 ### Safari and Mobile Browsers
 
@@ -70,7 +70,7 @@ Safari and Mobile browsers are limited to a single file with maximum size of 1GB
 
 ## 🛡️ Security Architecture
 
-Z3R0 implements industry-standard cryptographic practices:
+SecureLock implements industry-standard cryptographic practices:
 
 - **Encryption Algorithm**: AES-256 [Galois/Counter Mode](https://en.wikipedia.org/wiki/Galois/Counter_Mode)
 - **Key Derivation**: [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2) with 100,000 iterations
